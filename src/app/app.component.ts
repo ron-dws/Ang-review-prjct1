@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -8,3 +9,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Ang-review-prjct1';
 }
+
+//export const rout = RouterLink;
